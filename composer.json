@@ -1,0 +1,9 @@
+{
+    "name": "ees/vendor2",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {"Vendor2\\": "src/"}
+    },
+    "require": {}
+}
